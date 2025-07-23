@@ -1,0 +1,7 @@
+firstName,lastName,userName,email,password,confirmPassword,expected
+Alice,Smith,alice123,tuankhang19@gmail.com,pass123,pass123,success
+"","",user1,test1@mail.com,abc123,abc123,error
+Bob,Lee,boblee99,thudong11@gmail.com,test456,test456,success
+Ann,Lee,annlee,ann@mail.com,password,password123,error
+Eva,Wong,eva_wong,tamtang20@gmail.com,abc123,abc123,success
+John,Doe,jdoe123,thanhtan12@gmail.com,pass321,pass321,success

@@ -1,0 +1,7 @@
+firstName,lastName,email,gender,phone,dob,expected
+Nguyen,An,ngan@example.com,Female,0912345678,22 Jul 2025,success
+"",An,ngan@example.com,Female,0912345678,22 Jul 2025,error
+Nguyen,"",ngan@example.com,Female,0912345678,22 Jul 2025,error
+Nguyen,An,invalidemail,Female,0912345678,22 Jul 2025,error
+Nguyen,An,ngan@example.com,Female,0123,22 Jul 2025,error
+Nguyen,An,ngan@example.com,Male,0987654321,22 Jul 2025,success
